@@ -12,6 +12,8 @@ PR preview ?
 
 Test without env protection gh pages
 
+Test deleting deploy branch manual yarn deploy
+
 ## Getting Started
 
 Get started by **creating a new site**.
