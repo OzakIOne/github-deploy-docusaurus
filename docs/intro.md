@@ -10,6 +10,8 @@ Is it updated ?
 
 PR preview ?
 
+Test without env protection gh pages
+
 ## Getting Started
 
 Get started by **creating a new site**.
