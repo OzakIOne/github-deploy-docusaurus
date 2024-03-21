@@ -8,6 +8,8 @@ Let's discover **Docusaurus in less than 5 minutes**.
 
 Is it updated ?
 
+new commit
+
 PR preview ?
 
 Test without env protection gh pages
